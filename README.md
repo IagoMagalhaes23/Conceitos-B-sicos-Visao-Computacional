@@ -8,6 +8,10 @@ Uma pequena lista de projetos iniciais foi desenvolvida como cronograma para ade
 - Identificação de cor
 - Identificação de bordas
 - Detecção Facial
-- Classificação de Objetos
+- Reconhecimento de objetos
+- Reconhecimento de cores
+- Contagem de objetos
+- Distância entre objetos
 - Rastreamento de Objetos
+- Reconhecimento de caracteres
 - Recuperação de Fundo
