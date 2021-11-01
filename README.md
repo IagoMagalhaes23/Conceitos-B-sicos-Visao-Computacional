@@ -5,8 +5,6 @@ Aqui serão abordados conceitos mais simples, como simplemente ler uma imagem ut
 
 Uma pequena lista de projetos iniciais foi desenvolvida como cronograma para adentrar nessa área.
 
-- Identificação de cor
-- Identificação de bordas
 - Detecção Facial
 - Reconhecimento de objetos
 - Reconhecimento de cores
