@@ -5,7 +5,7 @@ Aqui serão abordados conceitos mais simples, como simplemente ler uma imagem ut
 
 Uma pequena lista de projetos iniciais foi desenvolvida como cronograma para adentrar nessa área.
 
-- Detecção Facial
+- Conceitos básicos de visão computacional
 - Reconhecimento de objetos
 - Reconhecimento de cores
 - Contagem de objetos
@@ -13,3 +13,4 @@ Uma pequena lista de projetos iniciais foi desenvolvida como cronograma para ade
 - Rastreamento de Objetos
 - Reconhecimento de caracteres
 - Recuperação de Fundo
+- Detecção Facial
